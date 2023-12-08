@@ -1,0 +1,21 @@
+{
+    "title": "Final Project Iris Analysis",
+    "description": "An analysis on the Iris dataset for my IS 477 final project",
+    "creators": [
+        {
+            "name": "Chenicek, Caden",
+            "orcid": "0009-0006-6332-7440"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "https://doi.org/10.24432/C56C76",
+            "relation": "cites"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "GPL-3.0"
+}
+    
