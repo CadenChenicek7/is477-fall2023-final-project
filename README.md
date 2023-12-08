@@ -1,4 +1,5 @@
 # Final Project for IS 477 
+[![DOI](https://zenodo.org/badge/728861039.svg)](https://zenodo.org/doi/10.5281/zenodo.10295632)
 
 Caden Chenicek
 
