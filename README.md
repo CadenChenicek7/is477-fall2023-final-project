@@ -1,8 +1,6 @@
 # Final Project for IS 477 
 [![DOI](https://zenodo.org/badge/728861039.svg)](https://zenodo.org/doi/10.5281/zenodo.10295632)
 
-Caden Chenicek
-
 ## Overview
 
 For my final project I have decided to analyze the famous Iris dataset from 1936. This data is widely known for being one of the first classification datasets to be published in literature. Now, almost a century later, the dataset is still put to good use in teaching statistics and machine learning. The dataset consists of 5 features. That being sepal length, sepal width, petal length, petal width, and the type of iris (all of the quantitative columns are measured in centimeters). Within the profiling folder there is an .html file that can be opened to reveal an in depth look at the data. This webpage allows for the user to compare two features from the dataset in order to determine their relation in real time. This element of the project is very user friendly, as there is no programming required and the UI is very simple to understand. Inside the results folder is a visualization that contains a scatter plot of sepal length on the x-axis and petal length on the y-axis. Further information on this analysis is detailed below.
