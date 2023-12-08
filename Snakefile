@@ -19,3 +19,8 @@ rule analyze:
         "results/iris_vis.png"
     shell:
         "python scripts/analysis.py"
+
+rule reproduce:
+    input:
+        "results/iris_vis.png",
+        "profiling/iris_report.html"
